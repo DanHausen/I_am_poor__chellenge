@@ -4,7 +4,7 @@ void main() => runApp(
       MaterialApp(
         home: Scaffold(
           appBar: AppBar(
-            title: Text("Dan"),
+            title: Text("DAN HAUSEN"),
             backgroundColor: Colors.red,
           ),
           body: Center(
